@@ -1,3 +1,3 @@
 # boostbot_simple
 the simple version of my boost bot; dont use this one so its public.
-config line 24
+config on line 24
