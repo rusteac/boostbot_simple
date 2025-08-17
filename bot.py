@@ -25,6 +25,7 @@ init()
 config = {
     "token": "",
     "owner_id": "",
+    "prefix": ".",
     "guild_id": "",
     "webhook_url": "",
     "proxyless": True
@@ -580,4 +581,5 @@ async def add_tokens_command(
 
 # Run the bot
 if __name__ == "__main__":
+
     bot.run(config["token"])
